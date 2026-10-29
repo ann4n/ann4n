@@ -1,6 +1,7 @@
 // Injected after each page load as (this function)(savedAnnotations, token).
-// Tap text to put a caret there and type an annotation; tap anywhere else to save it.
-// An annotation's position is the gap between two characters of the page's text.
+// Tap text that isn't clickable to put a caret there and type an annotation; tap anywhere else
+// to save it. Tap an annotation to edit it, drag it to move it. An annotation's position is the
+// gap between two characters of the page's text.
 (function (saved, token) {
   if (window.__mcpbAnnotate) return;
   window.__mcpbAnnotate = true;
@@ -9,7 +10,8 @@
 
   const style = document.createElement('style');
   style.textContent = `.${CLS}{color:#b25d00;font-style:italic;outline:none;white-space:pre-wrap}` +
-    `.${CLS}:not(:empty){background:rgba(255,170,0,.15);border-radius:2px;padding:0 .15em}`;
+    `.${CLS}:not(:empty){background:rgba(255,170,0,.15);border-radius:2px;padding:0 .15em}` +
+    `.${CLS}:not([contenteditable]){user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}`;
   (document.head || document.documentElement).appendChild(style);
 
   // The page's text, without scripts, styles or annotations.
@@ -54,8 +56,14 @@
     return -1;
   }
 
-  function insertAt(node, offset) {
-    const span = document.createElement('span');
+  // The gap in the page's text under a point, if there's text there (not the space between blocks).
+  function gapAt(x, y) {
+    const r = document.caretRangeFromPoint(x, y);
+    return r && r.startContainer.nodeType === Node.TEXT_NODE && /\S/.test(r.startContainer.data) &&
+      !r.startContainer.parentElement.closest('.' + CLS) ? r : null;
+  }
+
+  function insertAt(node, offset, span = document.createElement('span')) {
     span.className = CLS;
     const after = node.splitText(offset);
     after.parentNode.insertBefore(span, after);
@@ -77,7 +85,8 @@
     }
   }
 
-  let active = null, original = '', swallowUntil = 0;
+  let active = null, original = '', drag = null, swallowUntil = 0;
+  const swallowNextTap = () => { swallowUntil = Date.now() + 700; };
 
   function edit(span) {
     active = span;
@@ -96,27 +105,67 @@
     const span = active;
     if (!span) return;
     active = null;
-    swallowUntil = Date.now() + 700; // the tap that ended editing shouldn't start a new annotation
+    swallowNextTap(); // the tap that ended editing does nothing else
     span.removeAttribute('contenteditable');
     const text = span.innerText.replace(/\n$/, '');
     if (text !== original) {
-      const action = span.dataset.id ? 'update' : 'create';
-      span.dataset.id = span.dataset.id || Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
-      native.save(token, JSON.stringify({ action, id: span.dataset.id, text, ...locate(span) }));
+      if (span.dataset.id) {
+        native.save(token, JSON.stringify({ action: 'update', id: span.dataset.id, text }));
+      } else {
+        span.dataset.id = Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
+        native.save(token, JSON.stringify({ action: 'create', id: span.dataset.id, text, ...locate(span) }));
+      }
     }
     if (!text) span.remove();
   }
 
   addEventListener('pagehide', save);
 
-  // Every tap annotates; none reach the page, so links and page scripts can't navigate.
+  // Drag an annotation to move it; it follows the finger from gap to gap.
+  addEventListener('pointerdown', e => {
+    const span = !active && e.target.closest('.' + CLS);
+    if (span) drag = { span, x: e.clientX, y: e.clientY, moved: false };
+  }, true);
+  addEventListener('pointermove', e => {
+    if (!drag || (!drag.moved && Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 10)) return;
+    drag.moved = true;
+    drag.span.style.display = 'none'; // find the gap in the page's text, not under the note
+    const r = gapAt(e.clientX, e.clientY);
+    drag.span.style.display = '';
+    if (r) {
+      drag.span.remove();
+      insertAt(r.startContainer, r.startOffset, drag.span);
+    }
+  }, true);
+  const drop = () => {
+    if (drag && drag.moved) {
+      swallowNextTap();
+      native.save(token, JSON.stringify({ action: 'update', id: drag.span.dataset.id, ...locate(drag.span) }));
+    }
+    drag = null;
+  };
+  addEventListener('touchmove', e => drag && e.preventDefault(), { capture: true, passive: false }); // no scrolling
+  addEventListener('pointerup', drop, true);
+  addEventListener('pointercancel', drop, true);
+
+  // Links and form submits only open pages through MCP.
+  addEventListener('submit', e => e.preventDefault(), true);
+
+  const CLICKABLE = 'a[href],button,input,select,textarea,label,summary,video,audio,[onclick],' +
+    '[role=button],[role=link],[role=tab],[role=menuitem],[role=checkbox],[role=switch],' +
+    '[tabindex]:not([tabindex="-1"]),[contenteditable]:not(.' + CLS + ')';
+
   addEventListener('click', e => {
-    e.preventDefault();
-    e.stopImmediatePropagation();
-    if (active || Date.now() < swallowUntil) return;
-    const existing = e.target.closest && e.target.closest('.' + CLS);
-    if (existing) return edit(existing);
-    const r = document.caretRangeFromPoint(e.clientX, e.clientY);
-    if (r && r.startContainer.nodeType === Node.TEXT_NODE) edit(insertAt(r.startContainer, r.startOffset));
+    const block = () => { e.preventDefault(); e.stopImmediatePropagation(); };
+    if (Date.now() < swallowUntil) return block();
+    if (active) return active.contains(e.target) ? block() : undefined;
+    const existing = e.target.closest('.' + CLS);
+    if (existing) return block(), edit(existing);
+    const link = e.target.closest('a[href]');
+    if (link && link.href.split('#')[0] !== location.href.split('#')[0]) return block();
+    if (e.target.closest(CLICKABLE) || getComputedStyle(e.target).cursor === 'pointer') return; // the page's own
+    block();
+    const r = gapAt(e.clientX, e.clientY);
+    if (r) edit(insertAt(r.startContainer, r.startOffset));
   }, true);
 })

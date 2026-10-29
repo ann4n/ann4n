@@ -35,9 +35,13 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.UUID;
@@ -172,16 +176,19 @@ public class MainActivity extends Activity {
         public void save(String token, String json) {
             if (!TOKEN.equals(token)) return;
             try {
+                // A create has every field; an update has only what changed (text, or position).
                 JSONObject a = new JSONObject(json);
-                log("type", "annotation", "action", a.getString("action"), "id", a.getString("id"),
-                        "text", a.getString("text"),
-                        "prefix", a.getString("prefix"), "suffix", a.getString("suffix"), "offset", a.getInt("offset"));
+                List<Object> fields = new ArrayList<>(Arrays.asList("type", "annotation"));
+                for (String key : new String[]{"action", "id", "text", "prefix", "suffix", "offset"}) {
+                    if (a.has(key)) Collections.addAll(fields, key, a.get(key));
+                }
+                log(fields.toArray());
             } catch (JSONException ignored) {
             }
         }
     }
 
-    /** Latest version of each annotation on this page, from the log. */
+    /** Each annotation on this page as of its latest update, from the log. */
     String savedAnnotations(String url) {
         String page = url.split("#")[0];
         String current = null;
@@ -195,7 +202,12 @@ public class MainActivity extends Activity {
                         JSONObject a = new JSONObject(line);
                         if (a.optString("type").equals("page")) current = a.getString("url").split("#")[0];
                         else if (a.optString("type").equals("annotation") && page.equals(current)) {
-                            latest.put(a.getString("id"), a);
+                            JSONObject merged = latest.get(a.getString("id"));
+                            if (merged == null) latest.put(a.getString("id"), a);
+                            else for (Iterator<String> k = a.keys(); k.hasNext(); ) {
+                                String key = k.next();
+                                merged.put(key, a.get(key));
+                            }
                         }
                     } catch (JSONException ignored) {
                     }
