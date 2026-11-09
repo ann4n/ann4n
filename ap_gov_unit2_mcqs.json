@@ -1,13 +1,95 @@
 {
  "title": "AP US Government Unit 2 MCQs (combined)",
- "count": 363,
+ "note": "verified=true: official College Board questions. verified=false: teacher-made (Wayground) or AI-generated (Fiveable) questions, not checked.",
+ "count": 367,
  "by_source": {
+  "College Board (official)": 4,
   "Wayground (Quizizz)": 353,
   "Fiveable": 10
  },
  "questions": [
   {
    "id": 1,
+   "source": "College Board (official)",
+   "set_title": "AP U.S. Gov Course and Exam Description, CED sample Q1",
+   "source_url": "https://apcentral.collegeboard.org/media/pdf/ap-us-government-and-politics-course-and-exam-description.pdf",
+   "topic": "2.3",
+   "question": "Despite concerns raised by her constituents, a member of the House of Representatives votes in favor of a bill, believing that in the long term it is in the best interest of her constituents. This is an example of which of the following models of representation?",
+   "choices": [
+    "Delegate",
+    "Politico",
+    "Trustee",
+    "Virtual"
+   ],
+   "answer_index": 2,
+   "answer_letter": "C",
+   "answer": "Trustee",
+   "explanation": null,
+   "images": [],
+   "verified": true
+  },
+  {
+   "id": 2,
+   "source": "College Board (official)",
+   "set_title": "AP U.S. Gov Course and Exam Description, CED sample Q6",
+   "source_url": "https://apcentral.collegeboard.org/media/pdf/ap-us-government-and-politics-course-and-exam-description.pdf",
+   "topic": "2.11",
+   "question": "In which of the following ways could the president try to limit the impact of a Supreme Court decision?",
+   "choices": [
+    "Calling for the removal of the Supreme Court justices",
+    "Instructing the Department of Justice to delay enforcement of a provision in the decision.",
+    "Passing legislation that overrides the Court’s opinion",
+    "Changing the jurisdiction of the Supreme Court"
+   ],
+   "answer_index": 1,
+   "answer_letter": "B",
+   "answer": "Instructing the Department of Justice to delay enforcement of a provision in the decision.",
+   "explanation": null,
+   "images": [],
+   "verified": true
+  },
+  {
+   "id": 3,
+   "source": "College Board (official)",
+   "set_title": "AP U.S. Gov Course and Exam Description, CED sample Q10",
+   "source_url": "https://apcentral.collegeboard.org/media/pdf/ap-us-government-and-politics-course-and-exam-description.pdf",
+   "topic": "2.1",
+   "question": "According to the United States Constitution, all revenue bills must",
+   "choices": [
+    "be passed by a conference committee",
+    "originate in the House of Representatives",
+    "be passed by two-thirds of the Senate",
+    "be reviewed by the Supreme Court"
+   ],
+   "answer_index": 1,
+   "answer_letter": "B",
+   "answer": "originate in the House of Representatives",
+   "explanation": null,
+   "images": [],
+   "verified": true
+  },
+  {
+   "id": 4,
+   "source": "College Board (official)",
+   "set_title": "AP U.S. Gov Course and Exam Description, CED sample Q15",
+   "source_url": "https://apcentral.collegeboard.org/media/pdf/ap-us-government-and-politics-course-and-exam-description.pdf",
+   "topic": "2.3",
+   "question": "Which of the following best describes the reasoning in Baker v. Carr (1961)?",
+   "choices": [
+    "Unequal representation of citizens in legislative districts is unconstitutional and may be reviewed by the courts.",
+    "Political issues such as reapportionment, redistricting, and gerrymandering are to be resolved by the legislative branch.",
+    "Racial gerrymandering is a violation of the Fourth Amendment’s exclusionary clause.",
+    "Gerrymandering that favors a single party is not subject to legal action because there is no standard to determine how a state legislative district map should be drawn."
+   ],
+   "answer_index": 0,
+   "answer_letter": "A",
+   "answer": "Unequal representation of citizens in legislative districts is unconstitutional and may be reviewed by the courts.",
+   "explanation": null,
+   "images": [],
+   "verified": true
+  },
+  {
+   "id": 5,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -23,10 +105,11 @@
    "answer_letter": "A",
    "answer": "Push polling",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 2,
+   "id": 6,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -42,10 +125,11 @@
    "answer_letter": "A",
    "answer": "Straw Poll",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 3,
+   "id": 7,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -61,10 +145,11 @@
    "answer_letter": "C",
    "answer": "talking with peers and family members",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 4,
+   "id": 8,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -80,10 +165,11 @@
    "answer_letter": "A",
    "answer": "exit poll",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 5,
+   "id": 9,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -99,10 +185,11 @@
    "answer_letter": "A",
    "answer": "Political Ideology",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 6,
+   "id": 10,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -118,10 +205,11 @@
    "answer_letter": "D",
    "answer": "an exit poll",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 7,
+   "id": 11,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -137,10 +225,11 @@
    "answer_letter": "C",
    "answer": "Libertarian",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 8,
+   "id": 12,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -155,10 +244,11 @@
    "answer_letter": "A",
    "answer": "Liberal",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 9,
+   "id": 13,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -175,10 +265,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxMUE0T3RMNDlZUDd6Yl8wOS1JX3lNc2l1S05tLXhhN1hmOFlTaEFBWm9uYzZ5bERnbVY0Qi1reFplb0pqTmxoUkJ0aVNobzJSalllUWU4N1poT1VTR21hV1JaZy54NzlBMFVVYTJsVVl6U1pL"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 10,
+   "id": 14,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -192,10 +283,11 @@
    "answer_letter": "A",
    "answer": "Democratic Party",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 11,
+   "id": 15,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -209,10 +301,11 @@
    "answer_letter": "A",
    "answer": "Republicans",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 12,
+   "id": 16,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -228,10 +321,11 @@
    "answer_letter": "B",
    "answer": "the attitudes held by large numbers of people",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 13,
+   "id": 17,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -245,10 +339,11 @@
    "answer_letter": "B",
    "answer": "Conservative",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 14,
+   "id": 18,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -262,10 +357,11 @@
    "answer_letter": "A",
    "answer": "Liberal",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 15,
+   "id": 19,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -279,10 +375,11 @@
    "answer_letter": "B",
    "answer": "Conservative",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 16,
+   "id": 20,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -300,10 +397,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxU1RQeXJQX1hGaXZPTmtBZjB2YnlFLWlSNXYweU81STNwSzU2ODdhbjEwQlVJMmNnSFZUU2xDYmhvb1VRSWNMUkYtRk9Md20zODY1S0FoeWoyN1pqNlk0TG5MWGRMN1RTOU5Weno1RG9FUEhMQ2htdy51VTdjSUJ5Y0VjMlZnN0la"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 17,
+   "id": 21,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -319,10 +417,11 @@
    "answer_letter": "B",
    "answer": "School",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 18,
+   "id": 22,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -338,10 +437,11 @@
    "answer_letter": "C",
    "answer": "Younger Generation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 19,
+   "id": 23,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -357,10 +457,11 @@
    "answer_letter": "D",
    "answer": "unscientific",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 20,
+   "id": 24,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -376,10 +477,11 @@
    "answer_letter": "C",
    "answer": "Random",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 21,
+   "id": 25,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test review",
    "source_url": "https://wayground.com/admin/quiz/5be2db41e36c4e001b4b64d8",
@@ -395,10 +497,11 @@
    "answer_letter": "D",
    "answer": "Accurately reflects the population",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 22,
+   "id": 26,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -414,10 +517,11 @@
    "answer_letter": "D",
    "answer": "Minimize the threat of tyranny from any branch of government",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 23,
+   "id": 27,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -433,10 +537,11 @@
    "answer_letter": "D",
    "answer": "The national security advisor",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 24,
+   "id": 28,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -452,10 +557,11 @@
    "answer_letter": "D",
    "answer": "The Bill of Rights",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 25,
+   "id": 29,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -471,10 +577,11 @@
    "answer_letter": "D",
    "answer": "Marbury v. Madison",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 26,
+   "id": 30,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -490,10 +597,11 @@
    "answer_letter": "D",
    "answer": "Sue the government without its consent",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 27,
+   "id": 31,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -509,10 +617,11 @@
    "answer_letter": "D",
    "answer": "The Supreme Court grants certiorari for less than 5% of cases appealed to it.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 28,
+   "id": 32,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -528,10 +637,11 @@
    "answer_letter": "D",
    "answer": "Reviews previous court decisions",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 29,
+   "id": 33,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -547,10 +657,11 @@
    "answer_letter": "D",
    "answer": "Justices are free from direct political pressures",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 30,
+   "id": 34,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -566,10 +677,11 @@
    "answer_letter": "D",
    "answer": "It encourages judges to follow precedent when deciding cases.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 31,
+   "id": 35,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -585,10 +697,11 @@
    "answer_letter": "D",
    "answer": "Appointing justices who agree with the president’s political philosophy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 32,
+   "id": 36,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -604,10 +717,11 @@
    "answer_letter": "D",
    "answer": "Supreme Court only",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 33,
+   "id": 37,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -623,10 +737,11 @@
    "answer_letter": "D",
    "answer": "Senatorial courtesy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 34,
+   "id": 38,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -642,10 +757,11 @@
    "answer_letter": "D",
    "answer": "Declare war",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 35,
+   "id": 39,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -661,10 +777,11 @@
    "answer_letter": "D",
    "answer": "Using the appointment process to select judges with judicial philosophies similar to those of the President",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 36,
+   "id": 40,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -680,10 +797,11 @@
    "answer_letter": "D",
    "answer": "Regulatory policy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 37,
+   "id": 41,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -699,10 +817,11 @@
    "answer_letter": "D",
    "answer": "Regulate intrastate commerce",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 38,
+   "id": 42,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -718,10 +837,11 @@
    "answer_letter": "D",
    "answer": "The President must bring troops home from hostilities within 60 to 90 days unless Congress extends the time.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 39,
+   "id": 43,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -737,10 +857,11 @@
    "answer_letter": "D",
    "answer": "Because the agencies have bureaucratic expertise, Congress delegates “rule-making” authority to them.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 40,
+   "id": 44,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -756,10 +877,11 @@
    "answer_letter": "D",
    "answer": "White House staff",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 41,
+   "id": 45,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -775,10 +897,11 @@
    "answer_letter": "D",
    "answer": "Controlling an executive agency’s annual budget",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 42,
+   "id": 46,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -794,10 +917,11 @@
    "answer_letter": "D",
    "answer": "Independent agencies",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 43,
+   "id": 47,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -813,10 +937,11 @@
    "answer_letter": "D",
    "answer": "Fire and replace federal judges",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 44,
+   "id": 48,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -832,10 +957,11 @@
    "answer_letter": "D",
    "answer": "Separation of powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 45,
+   "id": 49,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -851,10 +977,11 @@
    "answer_letter": "D",
    "answer": "Pocket veto",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 46,
+   "id": 50,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -870,10 +997,11 @@
    "answer_letter": "D",
    "answer": "Simple majority vote in the Senate only",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 47,
+   "id": 51,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -889,10 +1017,11 @@
    "answer_letter": "D",
    "answer": "Conference",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 48,
+   "id": 52,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -908,10 +1037,11 @@
    "answer_letter": "D",
    "answer": "Try to amend the Constitution.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 49,
+   "id": 53,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -927,10 +1057,11 @@
    "answer_letter": "D",
    "answer": "The House votes for impeachment, and the Senate conducts a trial and reaches a guilty verdict.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 50,
+   "id": 54,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -946,10 +1077,11 @@
    "answer_letter": "D",
    "answer": "The House operates more by formal rules while the Senate operates more on informal understandings.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 51,
+   "id": 55,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -965,10 +1097,11 @@
    "answer_letter": "D",
    "answer": "Cloture",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 52,
+   "id": 56,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -984,10 +1117,11 @@
    "answer_letter": "D",
    "answer": "Logrolling",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 53,
+   "id": 57,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1003,10 +1137,11 @@
    "answer_letter": "D",
    "answer": "The Speaker of the House",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 54,
+   "id": 58,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1022,10 +1157,11 @@
    "answer_letter": "D",
    "answer": "Pardoning felons",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 55,
+   "id": 59,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1041,10 +1177,11 @@
    "answer_letter": "D",
    "answer": "House Ways and Means Committee",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 56,
+   "id": 60,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1062,10 +1199,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/a3ec364d-d746-4002-805b-9e77f303b680"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 57,
+   "id": 61,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1083,10 +1221,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/5d4b2c0b-86ce-4726-9b2b-8a15d593148e"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 58,
+   "id": 62,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1102,10 +1241,11 @@
    "answer_letter": "D",
    "answer": "A compromise cannot be reached with Congress",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 59,
+   "id": 63,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1121,10 +1261,11 @@
    "answer_letter": "D",
    "answer": "Guidelines issued by government agencies, which provide specific details about how a policy will be implemented",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 60,
+   "id": 64,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1140,10 +1281,11 @@
    "answer_letter": "D",
    "answer": "Life terms for federal judges mean that presidential appointments will continue to have influence long after the president’s term is over.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 61,
+   "id": 65,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1159,10 +1301,11 @@
    "answer_letter": "D",
    "answer": "The politico model",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 62,
+   "id": 66,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1178,10 +1321,11 @@
    "answer_letter": "D",
    "answer": "Nominating a high-level campaign fund-raiser to serve as an ambassador to New Zealand",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 63,
+   "id": 67,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1197,10 +1341,11 @@
    "answer_letter": "D",
    "answer": "Because of civil service laws, it is not easy for the president to remove professional bureaucrats when they disagree with the president’s agenda.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 64,
+   "id": 68,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1216,10 +1361,11 @@
    "answer_letter": "D",
    "answer": "Filing for a discharge petition",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 65,
+   "id": 69,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1237,10 +1383,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/16235077-7b4e-41e4-9326-8f54706da07f"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 66,
+   "id": 70,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1258,10 +1405,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/d72c5973-84a4-4c9e-a105-7ef868d8c887"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 67,
+   "id": 71,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1279,10 +1427,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/9d887a57-dc04-4113-afa8-a55e772093ec"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 68,
+   "id": 72,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1300,10 +1449,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/64989727-1131-4d6c-8c9c-91ed5016f9ad"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 69,
+   "id": 73,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1319,10 +1469,11 @@
    "answer_letter": "D",
    "answer": "Holding a hearing and subpoenaing high-level officials in the Department of Veterans Affairs to testify",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 70,
+   "id": 74,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1340,10 +1491,11 @@
    "explanation": "",
    "images": [
     "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/fd9754eb-cde5-4f46-bb6d-b660eb3c3fe3"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 71,
+   "id": 75,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5c9381b647554d001b417a60",
@@ -1359,10 +1511,11 @@
    "answer_letter": "D",
    "answer": "Refuse to enforce a ruling by the Court",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 72,
+   "id": 76,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1378,10 +1531,11 @@
    "answer_letter": "B",
    "answer": "Political Ideology",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 73,
+   "id": 77,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1397,10 +1551,11 @@
    "answer_letter": "B",
    "answer": "Hobbies",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 74,
+   "id": 78,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1416,10 +1571,11 @@
    "answer_letter": "C",
    "answer": "Conservative",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 75,
+   "id": 79,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1435,10 +1591,11 @@
    "answer_letter": "B",
    "answer": "Liberal",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 76,
+   "id": 80,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1454,10 +1611,11 @@
    "answer_letter": "A",
    "answer": "Political Parties",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 77,
+   "id": 81,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1473,10 +1631,11 @@
    "answer_letter": "D",
    "answer": "Yelling at the news on television",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 78,
+   "id": 82,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1492,10 +1651,11 @@
    "answer_letter": "D",
    "answer": "Our political beliefs become more firm",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 79,
+   "id": 83,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1511,10 +1671,11 @@
    "answer_letter": "C",
    "answer": "Mass media",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 80,
+   "id": 84,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1530,10 +1691,11 @@
    "answer_letter": "C",
    "answer": "Interviewer bias",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 81,
+   "id": 85,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1549,10 +1711,11 @@
    "answer_letter": "C",
    "answer": "Democratic candidates who support higher levels of spending on social services as opposed to spending on the military",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 82,
+   "id": 86,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1568,10 +1731,11 @@
    "answer_letter": "C",
    "answer": "I believe that the government should act, in the public interest, as a regulator of the economy.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 83,
+   "id": 87,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1587,10 +1751,11 @@
    "answer_letter": "A",
    "answer": "Random sampling",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 84,
+   "id": 88,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1606,10 +1771,11 @@
    "answer_letter": "A",
    "answer": "Schools/family",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 85,
+   "id": 89,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1625,10 +1791,11 @@
    "answer_letter": "C",
    "answer": "Media",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 86,
+   "id": 90,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1644,10 +1811,11 @@
    "answer_letter": "B",
    "answer": "The complex collection of opinions of many different people",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 87,
+   "id": 91,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1663,10 +1831,11 @@
    "answer_letter": "D",
    "answer": "least",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 88,
+   "id": 92,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1682,10 +1851,11 @@
    "answer_letter": "C",
    "answer": "conservative",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 89,
+   "id": 93,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1701,10 +1871,11 @@
    "answer_letter": "A",
    "answer": "yellow journalism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 90,
+   "id": 94,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1720,10 +1891,11 @@
    "answer_letter": "B",
    "answer": "internet",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 91,
+   "id": 95,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1739,10 +1911,11 @@
    "answer_letter": "D",
    "answer": "population in an area",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 92,
+   "id": 96,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1758,10 +1931,11 @@
    "answer_letter": "A",
    "answer": "that the government should be actively involved in promotion of social welfare of the nation's citizens",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 93,
+   "id": 97,
    "source": "Wayground (Quizizz)",
    "set_title": "Ap Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5ca57b6e4d7446001a4ccffe",
@@ -1777,10 +1951,11 @@
    "answer_letter": "C",
    "answer": "tolerant of both views",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 94,
+   "id": 98,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1797,10 +1972,11 @@
    "answer_letter": "D",
    "answer": "equality of outcome",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 95,
+   "id": 99,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1816,10 +1992,11 @@
    "answer_letter": "D",
    "answer": "After a review, the Federal Trade Commission approving a corporate merger of cable providers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 96,
+   "id": 100,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1835,10 +2012,11 @@
    "answer_letter": "C",
    "answer": "Individualism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 97,
+   "id": 101,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1854,10 +2032,11 @@
    "answer_letter": "D",
    "answer": "The United States Constitution delegating specific powers to Congress",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 98,
+   "id": 102,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1874,10 +2053,11 @@
    "answer_letter": "A",
    "answer": "of their parents",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 99,
+   "id": 103,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1894,10 +2074,11 @@
    "answer_letter": "C",
    "answer": "the family",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 100,
+   "id": 104,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1914,10 +2095,11 @@
    "answer_letter": "C",
    "answer": "less trusting of governmental institutions and leaders",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 101,
+   "id": 105,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1933,10 +2115,11 @@
    "answer_letter": "D",
    "answer": "Question format",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 102,
+   "id": 106,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1952,10 +2135,11 @@
    "answer_letter": "D",
    "answer": "The company wanted to ensure that the sample of the population was truly random.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 103,
+   "id": 107,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1972,10 +2156,11 @@
    "answer_letter": "C",
    "answer": "Fiscal policy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 104,
+   "id": 108,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -1992,10 +2177,11 @@
    "answer_letter": "A",
    "answer": "bank interest rates",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 105,
+   "id": 109,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2011,10 +2197,11 @@
    "answer_letter": "B",
    "answer": "Legalize the commercial sale of marijuana and reduce government spending on prisons.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 106,
+   "id": 110,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2030,10 +2217,11 @@
    "answer_letter": "D",
    "answer": "making a direct appeal to the public through mass media",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 107,
+   "id": 111,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2049,10 +2237,11 @@
    "answer_letter": "C",
    "answer": "Independent commissions significantly reduce the influence of partisan gerrymandering in the redistricting process.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 108,
+   "id": 112,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2068,10 +2257,11 @@
    "answer_letter": "D",
    "answer": "legislation granting the President the power to impound funds appropriated by Congress",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 109,
+   "id": 113,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2087,10 +2277,11 @@
    "answer_letter": "C",
    "answer": "The President can only fire appointees before they have been confirmed by the Senate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 110,
+   "id": 114,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2107,10 +2298,11 @@
    "answer_letter": "C",
    "answer": "welfare reform",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 111,
+   "id": 115,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2127,10 +2319,11 @@
    "answer_letter": "C",
    "answer": "Congress may pass a law declaring a presidential action unconstitutional.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 112,
+   "id": 116,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2147,10 +2340,11 @@
    "answer_letter": "A",
    "answer": "dissatisfaction over safeguards of individual rights and liberties",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 113,
+   "id": 117,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2166,10 +2360,11 @@
    "answer_letter": "B",
    "answer": "The framers made the amendment process difficult in order to protect individual rights.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 114,
+   "id": 118,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2185,10 +2380,11 @@
    "answer_letter": "D",
    "answer": "economic equality",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 115,
+   "id": 119,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2204,10 +2400,11 @@
    "answer_letter": "D",
    "answer": "A high school student joins a Young Politicians club at her school and develops specific positions on a number of political issues.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 116,
+   "id": 120,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2223,10 +2420,11 @@
    "answer_letter": "B",
    "answer": "The process through which an individual acquires his/her particular orientations - his/her knowledge, feelings, and evaluations regarding his/her political world.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 117,
+   "id": 121,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2242,10 +2440,11 @@
    "answer_letter": "A",
    "answer": "The generational effect",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 118,
+   "id": 122,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2261,10 +2460,11 @@
    "answer_letter": "B",
    "answer": "Leaving more money in the citizens' pockets will stimulate the economy and generate government revenues through other taxes.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 119,
+   "id": 123,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2280,10 +2480,11 @@
    "answer_letter": "C",
    "answer": "discount rate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 120,
+   "id": 124,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2299,10 +2500,11 @@
    "answer_letter": "A",
    "answer": "decreasing taxes",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 121,
+   "id": 125,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2316,10 +2518,11 @@
    "answer_letter": "A",
    "answer": "Increase the supply of money in the economy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 122,
+   "id": 126,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2335,10 +2538,11 @@
    "answer_letter": "B",
    "answer": "taxes and government spending",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 123,
+   "id": 127,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2354,10 +2558,11 @@
    "answer_letter": "C",
    "answer": "increase/decrease income tax rates",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 124,
+   "id": 128,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2372,10 +2577,11 @@
    "answer_letter": "C",
    "answer": "decrease them",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 125,
+   "id": 129,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2390,10 +2596,11 @@
    "answer_letter": "C",
    "answer": "decrease it",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 126,
+   "id": 130,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2408,10 +2615,11 @@
    "answer_letter": "A",
    "answer": "can be adjusted",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 127,
+   "id": 131,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2427,10 +2635,11 @@
    "answer_letter": "A",
    "answer": "deficit",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 128,
+   "id": 132,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2446,10 +2655,11 @@
    "answer_letter": "A",
    "answer": "individual income taxes",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 129,
+   "id": 133,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2465,10 +2675,11 @@
    "answer_letter": "B",
    "answer": "mandatory spending",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 130,
+   "id": 134,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2484,10 +2695,11 @@
    "answer_letter": "C",
    "answer": "entitlements",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 131,
+   "id": 135,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2503,10 +2715,11 @@
    "answer_letter": "C",
    "answer": "the increased life expectancy of the Baby Boomers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 132,
+   "id": 136,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2522,10 +2735,11 @@
    "answer_letter": "D",
    "answer": "Progressive Tax",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 133,
+   "id": 137,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2541,10 +2755,11 @@
    "answer_letter": "A",
    "answer": "Proportional (flat) Tax",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 134,
+   "id": 138,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2560,10 +2775,11 @@
    "answer_letter": "B",
    "answer": "Supply-Side Economics",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 135,
+   "id": 139,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2579,10 +2795,11 @@
    "answer_letter": "A",
    "answer": "Provide benefits only to people with specific needs",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 136,
+   "id": 140,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2598,10 +2815,11 @@
    "answer_letter": "A",
    "answer": "Reserve Requirement",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 137,
+   "id": 141,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2617,10 +2835,11 @@
    "answer_letter": "A",
    "answer": "North American Free Trade Agreement (NAFTA)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 138,
+   "id": 142,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2634,10 +2853,11 @@
    "answer_letter": "A",
    "answer": "Medicare",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 139,
+   "id": 143,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit \"2\" Review",
    "source_url": "https://wayground.com/admin/quiz/5f8eded807f4d8001b77d8d5",
@@ -2651,10 +2871,11 @@
    "answer_letter": "B",
    "answer": "Medicaid",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 140,
+   "id": 144,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2670,10 +2891,11 @@
    "answer_letter": "B",
    "answer": "Article 2",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 141,
+   "id": 145,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2689,10 +2911,11 @@
    "answer_letter": "C",
    "answer": "35",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 142,
+   "id": 146,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2708,10 +2931,11 @@
    "answer_letter": "C",
    "answer": "Political background",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 143,
+   "id": 147,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2727,10 +2951,11 @@
    "answer_letter": "B",
    "answer": "Franklin D. Roosevelt",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 144,
+   "id": 148,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2746,10 +2971,11 @@
    "answer_letter": "C",
    "answer": "The Vice President becomes president",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 145,
+   "id": 149,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2765,10 +2991,11 @@
    "answer_letter": "A",
    "answer": "An open primary allows you to vote for whoever you want, regardless of political party.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 146,
+   "id": 150,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2784,10 +3011,11 @@
    "answer_letter": "D",
    "answer": "A set of electors who are selected to elect a candidate to particular offices.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 147,
+   "id": 151,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2803,10 +3031,11 @@
    "answer_letter": "B",
    "answer": "Benefits large states that typically allow election outcomes to be decided faster",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 148,
+   "id": 152,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2822,10 +3051,11 @@
    "answer_letter": "D",
    "answer": "Gerrymandering is illegal, redistricting is not.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 149,
+   "id": 153,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2841,10 +3071,11 @@
    "answer_letter": "C",
    "answer": "A large, complex organization of appointed officials.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 150,
+   "id": 154,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2860,10 +3091,11 @@
    "answer_letter": "B",
    "answer": "Two governing bodies/chambers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 151,
+   "id": 155,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2879,10 +3111,11 @@
    "answer_letter": "C",
    "answer": "It was President Washington's idea",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 152,
+   "id": 156,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2898,10 +3131,11 @@
    "answer_letter": "A",
    "answer": "Article 1",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 153,
+   "id": 157,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2917,10 +3151,11 @@
    "answer_letter": "D",
    "answer": "Creating the IRS to collect taxes",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 154,
+   "id": 158,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2936,10 +3171,11 @@
    "answer_letter": "C",
    "answer": "2/3",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 155,
+   "id": 159,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2955,10 +3191,11 @@
    "answer_letter": "C",
    "answer": "435",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 156,
+   "id": 160,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2974,10 +3211,11 @@
    "answer_letter": "B",
    "answer": "It's always 2 per state",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 157,
+   "id": 161,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -2993,10 +3231,11 @@
    "answer_letter": "C",
    "answer": "Article 3",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 158,
+   "id": 162,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3012,10 +3251,11 @@
    "answer_letter": "A",
    "answer": "2 years",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 159,
+   "id": 163,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3031,10 +3271,11 @@
    "answer_letter": "C",
    "answer": "6 years",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 160,
+   "id": 164,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3048,10 +3289,11 @@
    "answer_letter": "A",
    "answer": "True",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 161,
+   "id": 165,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3067,10 +3309,11 @@
    "answer_letter": "B",
    "answer": "Speaker of the House",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 162,
+   "id": 166,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3086,10 +3329,11 @@
    "answer_letter": "C",
    "answer": "9",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 163,
+   "id": 167,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3105,10 +3349,11 @@
    "answer_letter": "B",
    "answer": "So there's no possibility of a tie (ex: 8 or 10 could cause a tie)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 164,
+   "id": 168,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3124,10 +3369,11 @@
    "answer_letter": "C",
    "answer": "McDonalds burger vs. chicken nuggets",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 165,
+   "id": 169,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3143,10 +3389,11 @@
    "answer_letter": "C",
    "answer": "Concurring opinion",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 166,
+   "id": 170,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3162,10 +3409,11 @@
    "answer_letter": "C",
    "answer": "5/9",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 167,
+   "id": 171,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3180,10 +3428,11 @@
    "answer_letter": "H",
    "answer": "Not yet but I will for the test!",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 168,
+   "id": 172,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3197,10 +3446,11 @@
    "answer_letter": "H",
    "answer": "False",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 169,
+   "id": 173,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3215,10 +3465,11 @@
    "answer_letter": "H",
    "answer": "I'm going to recite \"I'm Just A Bill\" verbally to myself until I learn it",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 170,
+   "id": 174,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Government Unit 2",
    "source_url": "https://wayground.com/admin/quiz/5fe33da39fb4ce001b7c72cc",
@@ -3232,10 +3483,11 @@
    "answer_letter": "B",
    "answer": "False",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 171,
+   "id": 175,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3251,10 +3503,11 @@
    "answer_letter": "B",
    "answer": "Bicameral",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 172,
+   "id": 176,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3270,10 +3523,11 @@
    "answer_letter": "C",
    "answer": "the Big Dig",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 173,
+   "id": 177,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3289,10 +3543,11 @@
    "answer_letter": "C",
    "answer": "Policy representation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 174,
+   "id": 178,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3308,10 +3563,11 @@
    "answer_letter": "D",
    "answer": "Symbolic representation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 175,
+   "id": 179,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3327,10 +3583,11 @@
    "answer_letter": "A",
    "answer": "Allocation representation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 176,
+   "id": 180,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3346,10 +3603,11 @@
    "answer_letter": "C",
    "answer": "Partisanship",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 177,
+   "id": 181,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3365,10 +3623,11 @@
    "answer_letter": "B",
    "answer": "Earmarked bills",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 178,
+   "id": 182,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3384,10 +3643,11 @@
    "answer_letter": "C",
    "answer": "National lawmaking",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 179,
+   "id": 183,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3403,10 +3663,11 @@
    "answer_letter": "D",
    "answer": "Filibuster",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 180,
+   "id": 184,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3422,10 +3683,11 @@
    "answer_letter": "A",
    "answer": "The leader of the majority party who serves as the presiding officer of the House of Representatives",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 181,
+   "id": 185,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3441,10 +3703,11 @@
    "answer_letter": "D",
    "answer": "A cloture",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 182,
+   "id": 186,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3458,10 +3721,11 @@
    "answer_letter": "A",
    "answer": "The House of Representatives",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 183,
+   "id": 187,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3475,10 +3739,11 @@
    "answer_letter": "B",
    "answer": "The Senate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 184,
+   "id": 188,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3494,10 +3759,11 @@
    "answer_letter": "B",
    "answer": "Omnibus legislation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 185,
+   "id": 189,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3513,10 +3779,11 @@
    "answer_letter": "D",
    "answer": "Polarization",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 186,
+   "id": 190,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3532,10 +3799,11 @@
    "answer_letter": "D",
    "answer": "The efforts of elected officials to look out for the interests of those who elect them",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 187,
+   "id": 191,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3551,10 +3819,11 @@
    "answer_letter": "D",
    "answer": "Social committee",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 188,
+   "id": 192,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3570,10 +3839,11 @@
    "answer_letter": "A",
    "answer": "To write or make changes to a bill",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 189,
+   "id": 193,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3589,10 +3859,11 @@
    "answer_letter": "B",
    "answer": "It is made up of Representatives and Senators",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 190,
+   "id": 194,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3608,10 +3879,11 @@
    "answer_letter": "D",
    "answer": "Hyper-partisanship",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 191,
+   "id": 195,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/6172e4ffa09a66001d99b3cd",
@@ -3627,10 +3899,11 @@
    "answer_letter": "B",
    "answer": "Casework",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 192,
+   "id": 196,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3646,10 +3919,11 @@
    "answer_letter": "A",
    "answer": "Article 1",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 193,
+   "id": 197,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3665,10 +3939,11 @@
    "answer_letter": "D",
    "answer": "Necessary & Proper Clause",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 194,
+   "id": 198,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3684,10 +3959,11 @@
    "answer_letter": "C",
    "answer": "handles appropriations bills",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 195,
+   "id": 199,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3703,10 +3979,11 @@
    "answer_letter": "B",
    "answer": "Reapportionment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 196,
+   "id": 200,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3722,10 +3999,11 @@
    "answer_letter": "A",
    "answer": "Gerrymandering",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 197,
+   "id": 201,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3741,10 +4019,11 @@
    "answer_letter": "C",
    "answer": "Conference Committee",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 198,
+   "id": 202,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3760,10 +4039,11 @@
    "answer_letter": "D",
    "answer": "filibuster",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 199,
+   "id": 203,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3779,10 +4059,11 @@
    "answer_letter": "D",
    "answer": "Pork barrel",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 200,
+   "id": 204,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3798,10 +4079,11 @@
    "answer_letter": "A",
    "answer": "Establish a military draft",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 201,
+   "id": 205,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3817,10 +4099,11 @@
    "answer_letter": "B",
    "answer": "issue executive orders",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 202,
+   "id": 206,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3836,10 +4119,11 @@
    "answer_letter": "A",
    "answer": "redistricting issues",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 203,
+   "id": 207,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3855,10 +4139,11 @@
    "answer_letter": "B",
    "answer": "strong executive",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 204,
+   "id": 208,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3874,10 +4159,11 @@
    "answer_letter": "D",
    "answer": "War Powers Resolution",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 205,
+   "id": 209,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3893,10 +4179,11 @@
    "answer_letter": "B",
    "answer": "striking down a law as unconstitutional",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 206,
+   "id": 210,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3912,10 +4199,11 @@
    "answer_letter": "A",
    "answer": "Foreign Relations",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 207,
+   "id": 211,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3931,10 +4219,11 @@
    "answer_letter": "D",
    "answer": "All the above",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 208,
+   "id": 212,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3950,10 +4239,11 @@
    "answer_letter": "A",
    "answer": "25",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 209,
+   "id": 213,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3969,10 +4259,11 @@
    "answer_letter": "A",
    "answer": "Read aloud",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 210,
+   "id": 214,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -3988,10 +4279,11 @@
    "answer_letter": "D",
    "answer": "Cloture",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 211,
+   "id": 215,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4007,10 +4299,11 @@
    "answer_letter": "A",
    "answer": "Mark Up Sessions",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 212,
+   "id": 216,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4026,10 +4319,11 @@
    "answer_letter": "D",
    "answer": "Rules Committee",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 213,
+   "id": 217,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4045,10 +4339,11 @@
    "answer_letter": "A",
    "answer": "Executive agreements with foreign nations",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 214,
+   "id": 218,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4064,10 +4359,11 @@
    "answer_letter": "D",
    "answer": "All the above",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 215,
+   "id": 219,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4083,10 +4379,11 @@
    "answer_letter": "A",
    "answer": "fewer people in rural districts led to uneven representation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 216,
+   "id": 220,
    "source": "Wayground (Quizizz)",
    "set_title": "Unit 2 AP Gov",
    "source_url": "https://wayground.com/admin/quiz/632b4c2a780eeb001e55358e",
@@ -4102,10 +4399,11 @@
    "answer_letter": "C",
    "answer": "Racial Gerrymandering was unconstitutional",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 217,
+   "id": 221,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4121,10 +4419,11 @@
    "answer_letter": "A",
    "answer": "establishment of two legislative chambers that have different structures and rules",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 218,
+   "id": 222,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4140,10 +4439,11 @@
    "answer_letter": "B",
    "answer": "Congress has greater control over Budgetary Policy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 219,
+   "id": 223,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4159,10 +4459,11 @@
    "answer_letter": "D",
    "answer": "The President has greater control over Cabinet Appointments",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 220,
+   "id": 224,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4178,10 +4479,11 @@
    "answer_letter": "C",
    "answer": "Power of the Purse",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 221,
+   "id": 225,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4195,10 +4497,11 @@
    "answer_letter": "A",
    "answer": "The House of Representatives",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 222,
+   "id": 226,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4214,10 +4517,11 @@
    "answer_letter": "A",
    "answer": "a member of the majority party in the chamber",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 223,
+   "id": 227,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4233,10 +4537,11 @@
    "answer_letter": "D",
    "answer": "They are used by senators to end a filibuster and bring a bill to a vote.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 224,
+   "id": 228,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4252,10 +4557,11 @@
    "answer_letter": "B",
    "answer": "The ability to filibuster",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 225,
+   "id": 229,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4271,10 +4577,11 @@
    "answer_letter": "A",
    "answer": "place a bill on the legislative calendar, limit time for debate and determine the type of amendments allowed",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 226,
+   "id": 230,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4290,10 +4597,11 @@
    "answer_letter": "D",
    "answer": "A member of Congress votes to close a popular tax loophole based on the belief that the money would be better spent paying down the national debt.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 227,
+   "id": 231,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4309,10 +4617,11 @@
    "answer_letter": "C",
    "answer": "It creates districts that favor one political party over another.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 228,
+   "id": 232,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4328,10 +4637,11 @@
    "answer_letter": "B",
    "answer": "Racial gerrymandering was ruled unconstitutional.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 229,
+   "id": 233,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4347,10 +4657,11 @@
    "answer_letter": "A",
    "answer": "modern presidents often try to avoid legislative checks and balances on their authority",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 230,
+   "id": 234,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4366,10 +4677,11 @@
    "answer_letter": "B",
    "answer": "advise the president",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 231,
+   "id": 235,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4385,10 +4697,11 @@
    "answer_letter": "B",
    "answer": "Marbury v. Madison (1803)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 232,
+   "id": 236,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4404,10 +4717,11 @@
    "answer_letter": "A",
    "answer": "justices are free from direct political pressures",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 233,
+   "id": 237,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4423,10 +4737,11 @@
    "answer_letter": "D",
    "answer": "administrative law",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 234,
+   "id": 238,
    "source": "Wayground (Quizizz)",
    "set_title": "AP GOV - Unit 2 Review Questions",
    "source_url": "https://wayground.com/admin/quiz/63723de6d9d467001d208b78",
@@ -4442,10 +4757,11 @@
    "answer_letter": "C",
    "answer": "Reviewing the annual budget appropriations for the agency",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 235,
+   "id": 239,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4461,10 +4777,11 @@
    "answer_letter": "B",
    "answer": "Incumbents & majority party members",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 236,
+   "id": 240,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4480,10 +4797,11 @@
    "answer_letter": "B",
    "answer": "A group of people with shared policy goals attempting to influence public policy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 237,
+   "id": 241,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4499,10 +4817,11 @@
    "answer_letter": "D",
    "answer": "NBC Nightly News with Lester Holt",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 238,
+   "id": 242,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4518,10 +4837,11 @@
    "answer_letter": "C",
    "answer": "Interest groups have become more influential in elections",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 239,
+   "id": 243,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4537,10 +4857,11 @@
    "answer_letter": "D",
    "answer": "closed primary",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 240,
+   "id": 244,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4556,10 +4877,11 @@
    "answer_letter": "B",
    "answer": "Consumer-driven media reinforces existing political biases in individuals.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 241,
+   "id": 245,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4575,10 +4897,11 @@
    "answer_letter": "D",
    "answer": "Executive department, Congressional committee, interest group",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 242,
+   "id": 246,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4594,10 +4917,11 @@
    "answer_letter": "A",
    "answer": "Critical election, party realignment, party era",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 243,
+   "id": 247,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4613,10 +4937,11 @@
    "answer_letter": "C",
    "answer": "Party line voting",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 244,
+   "id": 248,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4632,10 +4957,11 @@
    "answer_letter": "A",
    "answer": "Narrowcasting and selective exposure",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 245,
+   "id": 249,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4651,10 +4977,11 @@
    "answer_letter": "B",
    "answer": "primary elections, national convention, general election",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 246,
+   "id": 250,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4670,10 +4997,11 @@
    "answer_letter": "D",
    "answer": "responsible party model",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 247,
+   "id": 251,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4689,10 +5017,11 @@
    "answer_letter": "C",
    "answer": "Bipartisan Campaign Reform Act (aka BCRA or McCain-Feingold ACT)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 248,
+   "id": 252,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4708,10 +5037,11 @@
    "answer_letter": "B",
    "answer": "agenda setting",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 249,
+   "id": 253,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2",
    "source_url": "https://wayground.com/admin/quiz/652e9f37ca1feb64d2478759",
@@ -4727,10 +5057,11 @@
    "answer_letter": "B",
    "answer": "The electoral college is safeguarded by the popular vote.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 250,
+   "id": 254,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4746,10 +5077,11 @@
    "answer_letter": "B",
    "answer": "Republicanism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 251,
+   "id": 255,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4765,10 +5097,11 @@
    "answer_letter": "C",
    "answer": "The Senate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 252,
+   "id": 256,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4784,10 +5117,11 @@
    "answer_letter": "B",
    "answer": "Two years",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 253,
+   "id": 257,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4803,10 +5137,11 @@
    "answer_letter": "B",
    "answer": "The Legislative Branch",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 254,
+   "id": 258,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4822,10 +5157,11 @@
    "answer_letter": "D",
    "answer": "Executive Order",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 255,
+   "id": 259,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4841,10 +5177,11 @@
    "answer_letter": "B",
    "answer": "The Executive Branch",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 256,
+   "id": 260,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4860,10 +5197,11 @@
    "answer_letter": "D",
    "answer": "Stare decisis",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 257,
+   "id": 261,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4879,10 +5217,11 @@
    "answer_letter": "D",
    "answer": "The Legislative Branch",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 258,
+   "id": 262,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4898,10 +5237,11 @@
    "answer_letter": "A",
    "answer": "Life tenure",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 259,
+   "id": 263,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4917,10 +5257,11 @@
    "answer_letter": "B",
    "answer": "The Bureaucracy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 260,
+   "id": 264,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4936,10 +5277,11 @@
    "answer_letter": "D",
    "answer": "Judicial activism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 261,
+   "id": 265,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4955,10 +5297,11 @@
    "answer_letter": "D",
    "answer": "The Legislative Branch",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 262,
+   "id": 266,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4974,10 +5317,11 @@
    "answer_letter": "B",
    "answer": "Power of the purse",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 263,
+   "id": 267,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -4993,10 +5337,11 @@
    "answer_letter": "B",
    "answer": "Separation of powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 264,
+   "id": 268,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5012,10 +5357,11 @@
    "answer_letter": "A",
    "answer": "Marbury V. Madison",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 265,
+   "id": 269,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5031,10 +5377,11 @@
    "answer_letter": "A",
    "answer": "judicial review",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 266,
+   "id": 270,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5050,10 +5397,11 @@
    "answer_letter": "C",
    "answer": "the supremacy of the national government",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 267,
+   "id": 271,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5069,10 +5417,11 @@
    "answer_letter": "B",
    "answer": "national bank",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 268,
+   "id": 272,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5088,10 +5437,11 @@
    "answer_letter": "C",
    "answer": "Necessary and Proper Clause",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 269,
+   "id": 273,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5107,10 +5457,11 @@
    "answer_letter": "A",
    "answer": "U.S. v. LOPEZ (1995) FEDS LOSE!",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 270,
+   "id": 274,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5126,10 +5477,11 @@
    "answer_letter": "A",
    "answer": "Baker v. Carr (1961)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 271,
+   "id": 275,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5145,10 +5497,11 @@
    "answer_letter": "D",
    "answer": "Marbury v. Madison ( 1803)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 272,
+   "id": 276,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5164,10 +5517,11 @@
    "answer_letter": "B",
    "answer": "Shaw v. Reno (1993)",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 273,
+   "id": 277,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5185,10 +5539,11 @@
    "explanation": "",
    "images": [
     "https://media.quizizz.com/_mdserver/main/media/resource/gs/quizizz-media/quizzes/61ba7a2d-a66e-4f67-aed5-b4837a742399-v2"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 274,
+   "id": 278,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/65709a74a316da7928ec6810",
@@ -5206,10 +5561,11 @@
    "explanation": "",
    "images": [
     "https://media.quizizz.com/_mdserver/main/media/resource/gs/quizizz-media/quizzes/5218947a-cee4-47aa-b91a-f9120fe8b69b-v2"
-   ]
+   ],
+   "verified": false
   },
   {
-   "id": 275,
+   "id": 279,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5225,10 +5581,11 @@
    "answer_letter": "B",
    "answer": "divided government.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 276,
+   "id": 280,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5244,10 +5601,11 @@
    "answer_letter": "D",
    "answer": "Baker v. Carr",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 277,
+   "id": 281,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5263,10 +5621,11 @@
    "answer_letter": "D",
    "answer": "Determining an annual budget for government expenditures",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 278,
+   "id": 282,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5282,10 +5641,11 @@
    "answer_letter": "C",
    "answer": "Congress’ power to command the armed forces is being eroded",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 279,
+   "id": 283,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5301,10 +5661,11 @@
    "answer_letter": "B",
    "answer": "delegate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 280,
+   "id": 284,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5320,10 +5681,11 @@
    "answer_letter": "C",
    "answer": "Passing legislation narrowing the rule-making authority of the EPA",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 281,
+   "id": 285,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5339,10 +5701,11 @@
    "answer_letter": "B",
    "answer": "to begin a filibuster in hopes of talking the bill to death.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 282,
+   "id": 286,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5358,10 +5721,11 @@
    "answer_letter": "D",
    "answer": "separate powers with checks and balances will help control abuses by the majority",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 283,
+   "id": 287,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5377,10 +5741,11 @@
    "answer_letter": "D",
    "answer": "The Senate by rejecting the nomination with a majority vote",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 284,
+   "id": 288,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5396,10 +5761,11 @@
    "answer_letter": "B",
    "answer": "Pocket veto",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 285,
+   "id": 289,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5415,10 +5781,11 @@
    "answer_letter": "B",
    "answer": "The judiciary's power depends on an ability to convince the other branches of the strength of its reasoning.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 286,
+   "id": 290,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5434,10 +5801,11 @@
    "answer_letter": "A",
    "answer": "dissenting opinion",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 287,
+   "id": 291,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5453,10 +5821,11 @@
    "answer_letter": "C",
    "answer": "overturning a president’s executive order about immigration because the order violates the Constitution",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 288,
+   "id": 292,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5472,10 +5841,11 @@
    "answer_letter": "B",
    "answer": "Appealing to the Supreme Court",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 289,
+   "id": 293,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5491,10 +5861,11 @@
    "answer_letter": "B",
    "answer": "Congress - Appropriates funds to agencies",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 290,
+   "id": 294,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5510,10 +5881,11 @@
    "answer_letter": "A",
    "answer": "fulfilling his role as an agency director by testifying before Congress.",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 291,
+   "id": 295,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5529,10 +5901,11 @@
    "answer_letter": "A",
    "answer": "A unitary executive is best",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 292,
+   "id": 296,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Test",
    "source_url": "https://wayground.com/admin/quiz/65d020b65b2eb30f38880e08",
@@ -5548,10 +5921,11 @@
    "answer_letter": "A",
    "answer": "It is used as a tool to get more legislators to support a bill",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 293,
+   "id": 297,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5567,10 +5941,11 @@
    "answer_letter": "B",
    "answer": "Make treaties with foreign nations",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 294,
+   "id": 298,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5586,10 +5961,11 @@
    "answer_letter": "B",
    "answer": "Interpret laws and determine their constitutionality",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 295,
+   "id": 299,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5605,10 +5981,11 @@
    "answer_letter": "B",
    "answer": "Create laws that are necessary and proper for carrying out its enumerated powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 296,
+   "id": 300,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5624,10 +6001,11 @@
    "answer_letter": "C",
    "answer": "The power of impeachment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 297,
+   "id": 301,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5643,10 +6021,11 @@
    "answer_letter": "C",
    "answer": "Military defense",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 298,
+   "id": 302,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5662,10 +6041,11 @@
    "answer_letter": "B",
    "answer": "Prevent a vote on a bill or nomination",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 299,
+   "id": 303,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5681,10 +6061,11 @@
    "answer_letter": "C",
    "answer": "The executive, legislative, and judicial branches have distinct and separate powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 300,
+   "id": 304,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5700,10 +6081,11 @@
    "answer_letter": "C",
    "answer": "The power to create a national bank",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 301,
+   "id": 305,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5719,10 +6101,11 @@
    "answer_letter": "A",
    "answer": "The power of judicial review",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 302,
+   "id": 306,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5738,10 +6121,11 @@
    "answer_letter": "A",
    "answer": "Ensure accountability and decisiveness in the executive branch",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 303,
+   "id": 307,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5757,10 +6141,11 @@
    "answer_letter": "C",
    "answer": "To guarantee energy in the executive, enabling the president to act swiftly and decisively",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 304,
+   "id": 308,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5776,10 +6161,11 @@
    "answer_letter": "C",
    "answer": "It is independent and has neither the power to enforce its decisions nor to initiate laws",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 305,
+   "id": 309,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5795,10 +6181,11 @@
    "answer_letter": "D",
    "answer": "It ensures that judges will be free to make decisions without concern for their job security",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 306,
+   "id": 310,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5814,10 +6201,11 @@
    "answer_letter": "C",
    "answer": "To implement and administer federal laws and programs",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 307,
+   "id": 311,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5833,10 +6221,11 @@
    "answer_letter": "B",
    "answer": "The interactions and mutual benefits among congressional committees, bureaucratic agencies, and interest groups",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 308,
+   "id": 312,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5852,10 +6241,11 @@
    "answer_letter": "A",
    "answer": "Pendleton Civil Service Reform Act",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 309,
+   "id": 313,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5871,10 +6261,11 @@
    "answer_letter": "B",
    "answer": "Agencies must operate within the constraints of federal budgets passed by Congress",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 310,
+   "id": 314,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5890,10 +6281,11 @@
    "answer_letter": "A",
    "answer": "A presidential speech delivered annually to Congress outlining the administration’s agenda and policy priorities",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 311,
+   "id": 315,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5909,10 +6301,11 @@
    "answer_letter": "B",
    "answer": "Keep certain communications private, especially those involving national security",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 312,
+   "id": 316,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5928,10 +6321,11 @@
    "answer_letter": "A",
    "answer": "An informal power derived from the Constitution",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 313,
+   "id": 317,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5947,10 +6341,11 @@
    "answer_letter": "B",
    "answer": "Interpreting and applying laws to specific cases",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 314,
+   "id": 318,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5966,10 +6361,11 @@
    "answer_letter": "A",
    "answer": "Courts should follow precedents set by previous rulings",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 315,
+   "id": 319,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -5985,10 +6381,11 @@
    "answer_letter": "B",
    "answer": "A bicameral legislature, consisting of the House of Representatives and the Senate",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 316,
+   "id": 320,
    "source": "Wayground (Quizizz)",
    "set_title": "AP Gov Unit 2 Review",
    "source_url": "https://wayground.com/admin/quiz/674d07cb5a7a79116708c662",
@@ -6004,10 +6401,11 @@
    "answer_letter": "A",
    "answer": "The process of redrawing legislative district boundaries to favor one political party",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 317,
+   "id": 321,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6023,10 +6421,11 @@
    "answer_letter": "D",
    "answer": "Gerrymandering",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 318,
+   "id": 322,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6042,10 +6441,11 @@
    "answer_letter": "A",
    "answer": "Reapportionment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 319,
+   "id": 323,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6061,10 +6461,11 @@
    "answer_letter": "C",
    "answer": "Discharge petitions",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 320,
+   "id": 324,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6080,10 +6481,11 @@
    "answer_letter": "B",
    "answer": "Redistricting",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 321,
+   "id": 325,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6099,10 +6501,11 @@
    "answer_letter": "A",
    "answer": "Reapportionment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 322,
+   "id": 326,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6118,10 +6521,11 @@
    "answer_letter": "A",
    "answer": "Judicial Review",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 323,
+   "id": 327,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6137,10 +6541,11 @@
    "answer_letter": "B",
    "answer": "Impeaching federal officials",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 324,
+   "id": 328,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6156,10 +6561,11 @@
    "answer_letter": "A",
    "answer": "The federal government from becoming too powerful",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 325,
+   "id": 329,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6175,10 +6581,11 @@
    "answer_letter": "A",
    "answer": "13th Amendment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 326,
+   "id": 330,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6194,10 +6601,11 @@
    "answer_letter": "B",
    "answer": "Limit the powers of the federal government",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 327,
+   "id": 331,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6213,10 +6621,11 @@
    "answer_letter": "C",
    "answer": "Taxation",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 328,
+   "id": 332,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6232,10 +6641,11 @@
    "answer_letter": "A",
    "answer": "Elastic Clause",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 329,
+   "id": 333,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6251,10 +6661,11 @@
    "answer_letter": "D",
    "answer": "Federalism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 330,
+   "id": 334,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6270,10 +6681,11 @@
    "answer_letter": "A",
    "answer": "Federalism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 331,
+   "id": 335,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6289,10 +6701,11 @@
    "answer_letter": "B",
    "answer": "Fusion of powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 332,
+   "id": 336,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6308,10 +6721,11 @@
    "answer_letter": "B",
    "answer": "The House of Representatives",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 333,
+   "id": 337,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6327,10 +6741,11 @@
    "answer_letter": "B",
    "answer": "Enforcing laws",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 334,
+   "id": 338,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6346,10 +6761,11 @@
    "answer_letter": "A",
    "answer": "Has two houses",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 335,
+   "id": 339,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6365,10 +6781,11 @@
    "answer_letter": "C",
    "answer": "Ratifying treaties",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 336,
+   "id": 340,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6384,10 +6801,11 @@
    "answer_letter": "A",
    "answer": "Popular Sovereignty",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 337,
+   "id": 341,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6403,10 +6821,11 @@
    "answer_letter": "B",
    "answer": "Freedom of speech",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 338,
+   "id": 342,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af1314d704cee371da3f",
@@ -6422,10 +6841,11 @@
    "answer_letter": "A",
    "answer": "President who is in the final period of office, after the election of a successor",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 339,
+   "id": 343,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6441,10 +6861,11 @@
    "answer_letter": "A",
    "answer": "Power of the Purse",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 340,
+   "id": 344,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6460,10 +6881,11 @@
    "answer_letter": "A",
    "answer": "Gridlock",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 341,
+   "id": 345,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6479,10 +6901,11 @@
    "answer_letter": "A",
    "answer": "Party Whip",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 342,
+   "id": 346,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6496,10 +6919,11 @@
    "answer_letter": "A",
    "answer": "Enumerated Powers",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 343,
+   "id": 347,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6515,10 +6939,11 @@
    "answer_letter": "A",
    "answer": "Judicial Review",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 344,
+   "id": 348,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6534,10 +6959,11 @@
    "answer_letter": "A",
    "answer": "Legislative Process",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 345,
+   "id": 349,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6553,10 +6979,11 @@
    "answer_letter": "A",
    "answer": "Federalism",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 346,
+   "id": 350,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6572,10 +6999,11 @@
    "answer_letter": "A",
    "answer": "Veto",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 347,
+   "id": 351,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6591,10 +7019,11 @@
    "answer_letter": "A",
    "answer": "Bill of Rights",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 348,
+   "id": 352,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6610,10 +7039,11 @@
    "answer_letter": "A",
    "answer": "Speaker of the House",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 349,
+   "id": 353,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6629,10 +7059,11 @@
    "answer_letter": "A",
    "answer": "Checks and Balances",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 350,
+   "id": 354,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6648,10 +7079,11 @@
    "answer_letter": "A",
    "answer": "Suffrage",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 351,
+   "id": 355,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6667,10 +7099,11 @@
    "answer_letter": "A",
    "answer": "Elastic Clause",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 352,
+   "id": 356,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6686,10 +7119,11 @@
    "answer_letter": "A",
    "answer": "13th Amendment",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 353,
+   "id": 357,
    "source": "Wayground (Quizizz)",
    "set_title": "APGopo Unit 2",
    "source_url": "https://wayground.com/admin/quiz/67a1af13552028e4fe5229a3",
@@ -6705,10 +7139,11 @@
    "answer_letter": "A",
    "answer": "Representative Democracy",
    "explanation": "",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 354,
+   "id": 358,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6724,10 +7159,11 @@
    "answer_letter": "A",
    "answer": "Logrolling—exchanging political favors and trading votes to build coalitions for legislation",
    "explanation": "Recognizing the vote exchange as logrolling requires identifying that the senators are trading support for mutual benefit rather than voting based on policy preference. The scenario's explicit detail—neither senator favors the other's bill but both vote for it anyway—demonstrates the defining characteristic of logrolling as a coalition-building tactic affecting legislative outcomes.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 355,
+   "id": 359,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6743,10 +7179,11 @@
    "answer_letter": "A",
    "answer": "It sets House debate terms and amendment rules, controlling floor access.",
    "explanation": "Because the House is large, the Rules Committee controls debate terms, amendment rules, and scheduling, determining which bills reach the floor. That gatekeeping centralizes power compared with the Senate's looser procedures.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 356,
+   "id": 360,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6762,10 +7199,11 @@
    "answer_letter": "A",
    "answer": "Senate's smaller size and traditions give individual senators greater procedural power.",
    "explanation": "The Senate's small membership and norms of extended debate let individual senators use holds, filibusters, and unanimous-consent blocks to delay or halt legislation. The House's larger size and formal rules concentrate agenda control in the Speaker and Rules Committee, reducing individual obstruction.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 357,
+   "id": 361,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6781,10 +7219,11 @@
    "answer_letter": "A",
    "answer": "Delegate model, prioritizing constituent preferences over party loyalty",
    "explanation": "The delegate model requires representatives to act as agents of their constituents' preferences, voting according to district opinion even when it conflicts with party positions. The member's explicit reference to constituent polling and opposition demonstrates this prioritization of constituent will over party alignment.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 358,
+   "id": 362,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6800,10 +7239,11 @@
    "answer_letter": "A",
    "answer": "Divided government combined with the lame-duck status of the president",
    "explanation": "The scenario combines two elements: divided government (opposing party controls Senate) and a lame-duck president (final year, cannot seek re-election). The learning objective explicitly states that divided government leads to greater partisanship in voting against presidential initiatives and appointments, especially for lame-duck presidents. The Senate's strategic delay reflects this documented behavior pattern.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 359,
+   "id": 363,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6819,10 +7259,11 @@
    "answer_letter": "A",
    "answer": "Trustee model: representative uses personal judgment despite constituent opposition.",
    "explanation": "The trustee model describes representatives using their own judgment instead of following constituents. The senator cited fiscal data and long-term stability, so the vote reflects a trustee choice despite 71% opposition.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 360,
+   "id": 364,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6838,10 +7279,11 @@
    "answer_letter": "A",
    "answer": "The House committee system allows majority party leaders to control which bills receive consideration",
    "explanation": "Recognizing that committee chairs (selected by the majority party) control agendas and can effectively block bills demonstrates understanding of how House structure concentrates power over bill advancement. The discharge petition exists precisely because committees can prevent bills from reaching the floor, showing how institutional design affects policymaking by giving committees gatekeeping power.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 361,
+   "id": 365,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6857,10 +7299,11 @@
    "answer_letter": "A",
    "answer": "Conference committees require both chambers to negotiate and compromise on bill text.",
    "explanation": "Conference committees reconcile House and Senate differences by negotiating a single bill text. They ensure the final law reflects compromise between the chambers' priorities.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 362,
+   "id": 366,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6876,10 +7319,11 @@
    "answer_letter": "A",
    "answer": "Increased partisan conflict causes senators to oppose the president's nominees.",
    "explanation": "Divided government heightens partisan divisions, prompting party-line opposition to presidential initiatives. Split control of the branches increases partisanship and leads to more rejections and delays of presidential nominees.",
-   "images": []
+   "images": [],
+   "verified": false
   },
   {
-   "id": 363,
+   "id": 367,
    "source": "Fiveable",
    "set_title": "Fiveable AP Gov Unit 2 practice",
    "source_url": "https://fiveable.me/practice/ap-gov/unit-2",
@@ -6895,7 +7339,8 @@
    "answer_letter": "A",
    "answer": "The Senate's smaller size and looser rules allow individual senators significant procedural power",
    "explanation": "Connecting the senator's ability to delay a nomination through a hold reveals how Senate structure differs from the House. The hold procedure exemplifies the Senate's design to give individual members greater influence over the legislative and confirmation process compared to the House's more rigid majority-controlled procedures.",
-   "images": []
+   "images": [],
+   "verified": false
   }
  ]
 }
